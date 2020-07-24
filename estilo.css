@@ -1,0 +1,135 @@
+
+#topo
+/* Rectangle 203 */
+{
+ background-color:#0B27FA;
+ height: 450px;
+ width: auto
+ position: absolute;
+}
+
+#grupo1 
+{
+    position: absolute;
+    padding-left: 159px ;
+    padding-top:78px;
+}
+
+#texto1
+{
+    position: absolute;
+    width: 107px;
+    height: 40px;
+    left: 159px;
+    top: 162px;
+    line-height: 172%;
+    font-size: 24px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: #00BA91;
+
+}
+
+#texto2
+{
+    position: absolute;
+    width: 544px;
+    height: 205px;
+    left: 159px;
+    top: 204px;
+
+    @font-face {
+        font-family:'DM Sans', sans-serif;
+        src: url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@700&display=swap" rel="stylesheet");
+
+    }
+    font-style: bold;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 52px;
+    color: #FFFFFF
+}
+#texto3
+{
+    text-align: left;
+    width: 450px;
+    height: 520px;
+    font-size: 18px;
+    position: absolute;
+    padding-left: 159px;
+    padding-top: 68px;
+    color:  #444548;
+    @font-face {
+        font-family: 'DM Sans', sans-serif;
+        src: url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap" rel="stylesheet");
+        }
+}
+#formulario
+{
+    padding-top: 2px;
+    position: absolute;
+    left: 732px;
+    top: 575px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 18px;
+
+    color:  #021B51;
+    @font-face {
+        font-family: 'DM Sans', sans-serif;
+        src: url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap" rel="stylesheet");
+        }
+}
+#texto4
+{
+    position: absolute;
+    font-style: bold;
+    font-weight: bold;
+    width: 449px;
+    height: 85px;
+    left: 832px;
+    top: 518px;
+    color: #021B51;
+    @font-face {
+        font-family: 'DM Sans', sans-serif;
+        src: url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@700&display=swap" rel="stylesheet");
+        }
+
+}
+.btn-primary {
+    background-color:#00BA91
+}
+.footer{
+    position: absolute;
+    padding-top: 750px ;
+    padding-left: 162px;
+    font-size: 16px;
+    @font-face {
+        font-family: 'DM Sans', sans-serif;
+        src: url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap" rel="stylesheet");
+        }
+}
+.btn-info
+{
+ 
+    font-size: 14px;
+    color:#021B51;
+    @font-face {
+        font-family: 'DM Sans', sans-serif;
+        src: url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400&display=swap" rel="stylesheet");
+        }
+
+
+}
+#icon
+{
+    padding-top: 750px;
+    padding-left: 512px;
+    position: absolute;
+}
+#botao2
+{
+    padding-top: 755px;
+    position: absolute;
+}
